@@ -650,6 +650,9 @@ textarea {
     .event-list {
         grid-template-columns: 1fr;
     }
+    .event-button{
+        margin-left:100px;
+    }
 }
 
 
